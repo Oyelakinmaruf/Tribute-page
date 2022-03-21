@@ -1,0 +1,61 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+#title{
+  margin: 26px;
+    font-size: xxx-large;
+    font-style: oblique;
+    font-family: cursive;
+    font-weight: revert;
+}
+h2{
+  font-family: cursive;
+    font-style: italic;
+    margin: 17px;
+    font-size: larger;
+}
+#image{
+  max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-caption{
+  font-size: x-large;
+    font-style: oblique;
+    font-family: monospace;
+    margin: 15px;
+}
+#Tribute-info{
+  font-size: x-large;
+    font-style: oblique;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+p{
+  font-size: large;
+    font-family: monospace;
+    font-style: oblique;
+    opacity: initial;
+    font-weight: 800;
+}
+.mine{
+  font-size: larger;
+    font-style: normal;
+    font-weight: normal;
+    font-family: fantasy;
+}
+.years{
+  display: flex;
+  margin: 0 22%;
+  padding-bottom: 2%;
+  font-size: medium;
+  font-family: sans-serif;
+  font-weight: 400;
+}
+.raw{
+  background-color: whitesmoke;
+}
